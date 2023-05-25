@@ -1,1 +1,2 @@
-# Etch A Sketch game made for The Odin Project
+# Etch A Sketch 
+[Live demo](https://cecifernandez.github.io/etch-a-sketch-top/)
